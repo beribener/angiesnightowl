@@ -1,6 +1,6 @@
 # Angie's Night Owl
 <p align="center">
-<img src="/misc/cover.jpg?raw=true" alt="Angie's Night Owl"/>
+<img src="/misc/cover.jpg" alt="Angie's Night Owl"/>
 </p>
 
 In this project, the owl will try to go over the fundamentals and best practices of Java Programming Language for Angie!
@@ -27,3 +27,7 @@ In this project, the owl will try to go over the fundamentals and best practices
   <li>Generics</li>
   <li>Web Programming</li>
 </ol>
+
+<p align="right">
+<img src="/misc/birthday.jpg" alt="Angie's Night Owl"/>
+</p>
